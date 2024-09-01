@@ -6,6 +6,15 @@ I'm a backend developer and compititive programmer. I have experience and create
 using ASP .NET Core, Spring Boot and Laravel. I also has experience and good knowledge in databases such as MY SQL and SQL Server. I Solved hundreds of problems in leetcode and codeforces.  
 ---
 
+- 📫 How to reach me **ymotawfiq@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/ymtawfiq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ymotawfiq" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ymotawfiq/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ymotawfiq" height="30" width="40" /></a>
+
+</p>
+
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
@@ -18,3 +27,5 @@ using ASP .NET Core, Spring Boot and Laravel. I also has experience and good kno
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <br />
+
+
