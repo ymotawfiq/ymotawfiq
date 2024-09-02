@@ -18,7 +18,12 @@ using ASP .NET Core, Spring Boot and Laravel. I also has experience and good kno
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/c-sharp-c-icon-456x512-9sej0lrz.png" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://ih1.redbubble.net/image.366684642.5673/st,small,845x845-pad,1000x1000,f8f8f8.u2.jpg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://static-00.iconduck.com/assets.00/database-mysql-icon-1954x2048-08uox8qu.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/5968/5968409.png" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn-icons-png.freepik.com/512/6470/6470816.png" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
